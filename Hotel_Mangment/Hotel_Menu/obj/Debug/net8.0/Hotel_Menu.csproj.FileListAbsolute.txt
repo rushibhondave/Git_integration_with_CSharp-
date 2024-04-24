@@ -1,0 +1,15 @@
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\bin\Debug\net8.0\Hotel_Menu.deps.json
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\bin\Debug\net8.0\Hotel_Menu.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\bin\Debug\net8.0\Hotel_Menu.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\obj\Debug\net8.0\Hotel_Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\obj\Debug\net8.0\Hotel_Menu.AssemblyInfoInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\obj\Debug\net8.0\Hotel_Menu.AssemblyInfo.cs
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\obj\Debug\net8.0\Hotel_Menu.csproj.CoreCompileInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\obj\Debug\net8.0\Hotel_Menu.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\obj\Debug\net8.0\refint\Hotel_Menu.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\obj\Debug\net8.0\Hotel_Menu.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\obj\Debug\net8.0\ref\Hotel_Menu.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\bin\Debug\net8.0\Accunt_Open.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\bin\Debug\net8.0\Accunt_Open.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\obj\Debug\net8.0\Hotel_Menu.csproj.AssemblyReference.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Hotel_Mangment\Hotel_Menu\obj\Debug\net8.0\Hotel_Menu.csproj.Up2Date

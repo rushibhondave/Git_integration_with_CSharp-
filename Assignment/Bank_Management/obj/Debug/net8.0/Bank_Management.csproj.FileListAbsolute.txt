@@ -1,0 +1,14 @@
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\bin\Debug\net8.0\Bank_Management.exe
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\bin\Debug\net8.0\Bank_Management.deps.json
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\bin\Debug\net8.0\Bank_Management.runtimeconfig.json
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\bin\Debug\net8.0\Bank_Management.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\bin\Debug\net8.0\Bank_Management.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\obj\Debug\net8.0\Bank_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\obj\Debug\net8.0\Bank_Management.AssemblyInfoInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\obj\Debug\net8.0\Bank_Management.AssemblyInfo.cs
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\obj\Debug\net8.0\Bank_Management.csproj.CoreCompileInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\obj\Debug\net8.0\Bank_Management.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\obj\Debug\net8.0\refint\Bank_Management.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\obj\Debug\net8.0\Bank_Management.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\obj\Debug\net8.0\Bank_Management.genruntimeconfig.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Bank_Management\obj\Debug\net8.0\ref\Bank_Management.dll

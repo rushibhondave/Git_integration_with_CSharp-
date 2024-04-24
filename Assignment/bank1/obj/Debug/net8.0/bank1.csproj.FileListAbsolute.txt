@@ -1,0 +1,14 @@
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\bin\Debug\net8.0\bank1.exe
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\bin\Debug\net8.0\bank1.deps.json
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\bin\Debug\net8.0\bank1.runtimeconfig.json
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\bin\Debug\net8.0\bank1.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\bin\Debug\net8.0\bank1.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\obj\Debug\net8.0\bank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\obj\Debug\net8.0\bank1.AssemblyInfoInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\obj\Debug\net8.0\bank1.AssemblyInfo.cs
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\obj\Debug\net8.0\bank1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\obj\Debug\net8.0\bank1.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\obj\Debug\net8.0\refint\bank1.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\obj\Debug\net8.0\bank1.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\obj\Debug\net8.0\bank1.genruntimeconfig.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\bank1\obj\Debug\net8.0\ref\bank1.dll

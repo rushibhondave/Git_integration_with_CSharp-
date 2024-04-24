@@ -1,0 +1,14 @@
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\bin\Debug\net8.0\delgate_Private.exe
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\bin\Debug\net8.0\delgate_Private.deps.json
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\bin\Debug\net8.0\delgate_Private.runtimeconfig.json
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\bin\Debug\net8.0\delgate_Private.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\bin\Debug\net8.0\delgate_Private.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\obj\Debug\net8.0\delgate_Private.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\obj\Debug\net8.0\delgate_Private.AssemblyInfoInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\obj\Debug\net8.0\delgate_Private.AssemblyInfo.cs
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\obj\Debug\net8.0\delgate_Private.csproj.CoreCompileInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\obj\Debug\net8.0\delgate_Private.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\obj\Debug\net8.0\refint\delgate_Private.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\obj\Debug\net8.0\delgate_Private.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\obj\Debug\net8.0\delgate_Private.genruntimeconfig.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\delgate_Private\obj\Debug\net8.0\ref\delgate_Private.dll

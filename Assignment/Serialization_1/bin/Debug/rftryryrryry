@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <rno>1</rno>
+  <name>John Smith</name>
+  <marks>87.5</marks>
+</Student>

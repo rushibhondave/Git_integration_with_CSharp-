@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C85CC81D-E5A4-420B-9125-4427FA7D23A7}|Accunt_Open\\Accunt_Open.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\hotel_mangment\\accunt_open\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85CC81D-E5A4-420B-9125-4427FA7D23A7}|Accunt_Open\\Accunt_Open.csproj|solutionrelative:accunt_open\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51494A66-0236-435C-BF77-817E5B46A139}|Hotel_Mangement_Libray\\Hotel_Mangement_Libray.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\hotel_mangment\\hotel_mangement_libray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51494A66-0236-435C-BF77-817E5B46A139}|Hotel_Mangement_Libray\\Hotel_Mangement_Libray.csproj|solutionrelative:hotel_mangement_libray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1829FD7-EB9D-4B5D-B4EE-FE8CB8F118D7}|Hotel_Menu\\Hotel_Menu.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\hotel_mangment\\hotel_menu\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1829FD7-EB9D-4B5D-B4EE-FE8CB8F118D7}|Hotel_Menu\\Hotel_Menu.csproj|solutionrelative:hotel_menu\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85CC81D-E5A4-420B-9125-4427FA7D23A7}|Accunt_Open\\Accunt_Open.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\hotel_mangment\\accunt_open\\accunt_open.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C85CC81D-E5A4-420B-9125-4427FA7D23A7}|Accunt_Open\\Accunt_Open.csproj|solutionrelative:accunt_open\\accunt_open.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1829FD7-EB9D-4B5D-B4EE-FE8CB8F118D7}|Hotel_Menu\\Hotel_Menu.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\hotel_mangment\\hotel_menu\\hotel_menu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1829FD7-EB9D-4B5D-B4EE-FE8CB8F118D7}|Hotel_Menu\\Hotel_Menu.csproj|solutionrelative:hotel_menu\\hotel_menu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Hotel_Menu\\Class1.cs",
+              "RelativeDocumentMoniker": "Hotel_Menu\\Class1.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Hotel_Menu\\Class1.cs",
+              "RelativeToolTip": "Hotel_Menu\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:56:20.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accunt_Open.csproj",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Accunt_Open\\Accunt_Open.csproj",
+              "RelativeDocumentMoniker": "Accunt_Open\\Accunt_Open.csproj",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Accunt_Open\\Accunt_Open.csproj",
+              "RelativeToolTip": "Accunt_Open\\Accunt_Open.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T12:51:29.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hotel_Menu.csproj",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Hotel_Menu\\Hotel_Menu.csproj",
+              "RelativeDocumentMoniker": "Hotel_Menu\\Hotel_Menu.csproj",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Hotel_Menu\\Hotel_Menu.csproj",
+              "RelativeToolTip": "Hotel_Menu\\Hotel_Menu.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T12:50:27.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Hotel_Mangement_Libray\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel_Mangement_Libray\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Hotel_Mangement_Libray\\Program.cs",
+              "RelativeToolTip": "Hotel_Mangement_Libray\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:59:49.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Accunt_Open\\Class1.cs",
+              "RelativeDocumentMoniker": "Accunt_Open\\Class1.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Accunt_Open\\Class1.cs",
+              "RelativeToolTip": "Accunt_Open\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:50:57.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

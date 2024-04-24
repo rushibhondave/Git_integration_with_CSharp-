@@ -1,0 +1,14 @@
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\bin\Debug\net8.0\File_Logeer.exe
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\bin\Debug\net8.0\File_Logeer.deps.json
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\bin\Debug\net8.0\File_Logeer.runtimeconfig.json
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\bin\Debug\net8.0\File_Logeer.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\bin\Debug\net8.0\File_Logeer.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\obj\Debug\net8.0\File_Logeer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\obj\Debug\net8.0\File_Logeer.AssemblyInfoInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\obj\Debug\net8.0\File_Logeer.AssemblyInfo.cs
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\obj\Debug\net8.0\File_Logeer.csproj.CoreCompileInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\obj\Debug\net8.0\File_Logeer.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\obj\Debug\net8.0\refint\File_Logeer.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\obj\Debug\net8.0\File_Logeer.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\obj\Debug\net8.0\File_Logeer.genruntimeconfig.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\File_Logeer\obj\Debug\net8.0\ref\File_Logeer.dll

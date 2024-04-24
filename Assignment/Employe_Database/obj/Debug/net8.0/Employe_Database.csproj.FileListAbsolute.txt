@@ -1,0 +1,14 @@
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\bin\Debug\net8.0\Employe_Database.exe
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\bin\Debug\net8.0\Employe_Database.deps.json
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\bin\Debug\net8.0\Employe_Database.runtimeconfig.json
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\bin\Debug\net8.0\Employe_Database.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\bin\Debug\net8.0\Employe_Database.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\obj\Debug\net8.0\Employe_Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\obj\Debug\net8.0\Employe_Database.AssemblyInfoInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\obj\Debug\net8.0\Employe_Database.AssemblyInfo.cs
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\obj\Debug\net8.0\Employe_Database.csproj.CoreCompileInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\obj\Debug\net8.0\Employe_Database.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\obj\Debug\net8.0\refint\Employe_Database.dll
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\obj\Debug\net8.0\Employe_Database.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\obj\Debug\net8.0\Employe_Database.genruntimeconfig.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Employe_Database\obj\Debug\net8.0\ref\Employe_Database.dll

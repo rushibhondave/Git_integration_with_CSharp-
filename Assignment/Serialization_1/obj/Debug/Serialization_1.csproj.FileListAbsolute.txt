@@ -1,0 +1,7 @@
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Serialization_1\bin\Debug\Serialization_1.exe.config
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Serialization_1\bin\Debug\Serialization_1.exe
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Serialization_1\bin\Debug\Serialization_1.pdb
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Serialization_1\obj\Debug\Serialization_1.csproj.AssemblyReference.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Serialization_1\obj\Debug\Serialization_1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Serialization_1\obj\Debug\Serialization_1.exe
+C:\Users\IET\Videos\Lab_Data\C#\Assignment\Serialization_1\obj\Debug\Serialization_1.pdb
