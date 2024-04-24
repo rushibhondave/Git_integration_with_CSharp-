@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9F5AC66-5838-4197-9948-875C02C63D9C}|Choice_Libray\\Choice_Libray.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\hotel_mangment\\choice_libray\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F5AC66-5838-4197-9948-875C02C63D9C}|Choice_Libray\\Choice_Libray.csproj|solutionrelative:choice_libray\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C85CC81D-E5A4-420B-9125-4427FA7D23A7}|Accunt_Open\\Accunt_Open.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\hotel_mangment\\accunt_open\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C85CC81D-E5A4-420B-9125-4427FA7D23A7}|Accunt_Open\\Accunt_Open.csproj|solutionrelative:accunt_open\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Choice_Libray\\Class1.cs",
+              "RelativeDocumentMoniker": "Choice_Libray\\Class1.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Choice_Libray\\Class1.cs",
+              "RelativeToolTip": "Choice_Libray\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:28:02.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Hotel_Menu\\Class1.cs",
               "RelativeDocumentMoniker": "Hotel_Menu\\Class1.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "Hotel_Menu\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T12:56:20.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T12:56:20.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Accunt_Open.csproj",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Accunt_Open\\Accunt_Open.csproj",
               "RelativeDocumentMoniker": "Accunt_Open\\Accunt_Open.csproj",
@@ -63,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Hotel_Menu.csproj",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Hotel_Menu\\Hotel_Menu.csproj",
               "RelativeDocumentMoniker": "Hotel_Menu\\Hotel_Menu.csproj",
@@ -75,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Hotel_Mangement_Libray\\Program.cs",
               "RelativeDocumentMoniker": "Hotel_Mangement_Libray\\Program.cs",
@@ -83,18 +99,17 @@
               "RelativeToolTip": "Hotel_Mangement_Libray\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T07:59:49.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T07:59:49.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Accunt_Open\\Class1.cs",
               "RelativeDocumentMoniker": "Accunt_Open\\Class1.cs",
               "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Hotel_Mangment\\Accunt_Open\\Class1.cs",
               "RelativeToolTip": "Accunt_Open\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T12:50:57.216Z",
               "EditorCaption": ""
