@@ -9,15 +9,15 @@ namespace Bank
     public class bank_info
     {
 
-        public bank_info() 
+        public bank_info()
         {
             Console.WriteLine("Enter the Customer Count you want to store");
-            int NUM_Customer = Convert.ToInt32(Console.ReadLine()); 
+            int NUM_Customer = Convert.ToInt32(Console.ReadLine());
             const int DATA_SIZE = 4; //  Name,Age,Account_type,Deposite,
 
             string[,] players = new string[NUM_Customer, DATA_SIZE];
 
-        
+
             for (int i = 0; i < NUM_Customer; ++i)
             {
                 Console.WriteLine($"Enter details for Player {i + 1}:");
@@ -74,5 +74,5 @@ namespace Bank
 }
 
 
-  
+
 

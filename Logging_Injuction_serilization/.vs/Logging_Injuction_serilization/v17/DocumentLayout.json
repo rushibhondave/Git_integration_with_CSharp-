@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{126C563E-36F3-461D-B1D4-420A02F62C9C}|Bank\\Bank.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\logging_injuction_serilization\\bank\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{126C563E-36F3-461D-B1D4-420A02F62C9C}|Bank\\Bank.csproj|solutionrelative:bank\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\Bank\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{126C563E-36F3-461D-B1D4-420A02F62C9C}|Bank\\Bank.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\logging_injuction_serilization\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{126C563E-36F3-461D-B1D4-420A02F62C9C}|Bank\\Bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\Bank\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,10 +32,8 @@
               "RelativeDocumentMoniker": "Bank\\Class1.cs",
               "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\Bank\\Class1.cs",
               "RelativeToolTip": "Bank\\Class1.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T17:05:00.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T17:05:00.444Z"
             },
             {
               "$type": "Document",
@@ -47,8 +45,7 @@
               "RelativeToolTip": "Bank\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T17:04:37.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T17:04:37.141Z"
             }
           ]
         }
