@@ -9,7 +9,7 @@ namespace Bank
     public class bank_info
     {
 
-        public bank_info()
+        public void bank_info1()
         {
             Console.WriteLine("Enter the Customer Count you want to store");
             int NUM_Customer = Convert.ToInt32(Console.ReadLine());
@@ -20,7 +20,7 @@ namespace Bank
 
             for (int i = 0; i < NUM_Customer; ++i)
             {
-                Console.WriteLine($"Enter details for Player {i + 1}:");
+                Console.WriteLine($"\n\t\t************  Enter details for Customer {i + 1} : ************");
                 for (int j = 0; j < DATA_SIZE; ++j)
                 {
                     switch (j)
@@ -43,10 +43,11 @@ namespace Bank
             }
 
 
-            Console.WriteLine("\nPlayer Data:");
+           
             for (int i = 0; i < NUM_Customer; ++i)
             {
-                Console.WriteLine($"Player {i + 1}:");
+                Console.WriteLine($"\n\t\t************  Customer details for Customer {i + 1} : ************");
+                Console.WriteLine($"Customer {i + 1}:");
                 for (int j = 0; j < DATA_SIZE; ++j)
                 {
                     switch (j)
@@ -55,13 +56,13 @@ namespace Bank
                             Console.Write("Name: ");
                             break;
                         case 1:
-                            Console.Write("ID: ");
+                            Console.Write("Age: ");
                             break;
                         case 2:
-                            Console.Write("Role: ");
+                            Console.Write("Account Type: ");
                             break;
                         case 3:
-                            Console.Write("Runs: ");
+                            Console.Write("Deposite: ");
                             break;
                     }
                     Console.WriteLine(players[i, j]);

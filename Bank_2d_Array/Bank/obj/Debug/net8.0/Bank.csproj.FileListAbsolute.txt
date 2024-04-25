@@ -1,0 +1,15 @@
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\bin\Debug\net8.0\Bank.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\bin\Debug\net8.0\Bank.deps.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\bin\Debug\net8.0\Bank.runtimeconfig.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\bin\Debug\net8.0\Bank.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\bin\Debug\net8.0\Bank.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\obj\Debug\net8.0\Bank.sourcelink.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\obj\Debug\net8.0\Bank.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\obj\Debug\net8.0\refint\Bank.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\obj\Debug\net8.0\Bank.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\obj\Debug\net8.0\Bank.genruntimeconfig.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Bank_2d_Array\Bank\obj\Debug\net8.0\ref\Bank.dll

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Java_full_stack\\Project\\7.Net\\Bank_2d_Array\\",
+  "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Bank_2d_Array\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A84DAE61-2FF6-4B51-A3EE-7544BBB4A906}|Bank\\Bank.csproj|d:\\java_full_stack\\project\\7.net\\bank_2d_array\\bank\\bank_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A84DAE61-2FF6-4B51-A3EE-7544BBB4A906}|Bank\\Bank.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\bank_2d_array\\bank\\bank_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A84DAE61-2FF6-4B51-A3EE-7544BBB4A906}|Bank\\Bank.csproj|solutionrelative:bank\\bank_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A84DAE61-2FF6-4B51-A3EE-7544BBB4A906}|Bank\\Bank.csproj|d:\\java_full_stack\\project\\7.net\\bank_2d_array\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A84DAE61-2FF6-4B51-A3EE-7544BBB4A906}|Bank\\Bank.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\bank_2d_array\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A84DAE61-2FF6-4B51-A3EE-7544BBB4A906}|Bank\\Bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Bank_info.cs",
-              "DocumentMoniker": "D:\\Java_full_stack\\Project\\7.Net\\Bank_2d_Array\\Bank\\Bank_info.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Bank_2d_Array\\Bank\\Bank_info.cs",
               "RelativeDocumentMoniker": "Bank\\Bank_info.cs",
-              "ToolTip": "D:\\Java_full_stack\\Project\\7.Net\\Bank_2d_Array\\Bank\\Bank_info.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Bank_2d_Array\\Bank\\Bank_info.cs",
               "RelativeToolTip": "Bank\\Bank_info.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T17:16:50.1Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Java_full_stack\\Project\\7.Net\\Bank_2d_Array\\Bank\\Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Bank_2d_Array\\Bank\\Program.cs",
               "RelativeDocumentMoniker": "Bank\\Program.cs",
-              "ToolTip": "D:\\Java_full_stack\\Project\\7.Net\\Bank_2d_Array\\Bank\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Bank_2d_Array\\Bank\\Program.cs",
               "RelativeToolTip": "Bank\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T17:16:35.244Z",
               "EditorCaption": ""

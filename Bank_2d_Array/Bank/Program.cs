@@ -1,2 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Bank;
+    
+namespace Bank
+{
+    internal class bank_Main 
+    {
+        static void Main(string[] args)
+        {
+            bank_info bank_Info = new bank_info();
+            bank_Info.bank_info1();
+
+
+
+        }
+
+    }
+
+}
