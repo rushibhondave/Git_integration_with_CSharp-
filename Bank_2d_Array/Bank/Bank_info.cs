@@ -13,9 +13,12 @@ namespace Bank
         {
             Console.WriteLine("Enter the Customer Count you want to store");
             int NUM_Customer = Convert.ToInt32(Console.ReadLine());
+            int T = NUM_Customer * 20;
+            int Transtion = T;
             const int DATA_SIZE = 4; //  Name,Age,Account_type,Deposite,
 
             string[,] players = new string[NUM_Customer, DATA_SIZE];
+            int[] Deposite = new int[Transtion];
 
 
             for (int i = 0; i < NUM_Customer; ++i)

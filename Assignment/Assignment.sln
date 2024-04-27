@@ -19,10 +19,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delgate_Private", "delgate_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bank1", "bank1\bank1.csproj", "{D7173514-C06D-4EAA-A280-CBA79386C4D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel_Mangement_Library", "Hotel_Mangement_Library\Hotel_Mangement_Library.csproj", "{5713B0AE-6924-4F90-A992-DD1F071AC52C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel_Menu", "Hotel_Menu\Hotel_Menu.csproj", "{4A97FD78-7E81-4E89-AABF-5CAC5E0F9F77}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,14 +57,6 @@ Global
 		{D7173514-C06D-4EAA-A280-CBA79386C4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7173514-C06D-4EAA-A280-CBA79386C4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7173514-C06D-4EAA-A280-CBA79386C4D5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5713B0AE-6924-4F90-A992-DD1F071AC52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5713B0AE-6924-4F90-A992-DD1F071AC52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5713B0AE-6924-4F90-A992-DD1F071AC52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5713B0AE-6924-4F90-A992-DD1F071AC52C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4A97FD78-7E81-4E89-AABF-5CAC5E0F9F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A97FD78-7E81-4E89-AABF-5CAC5E0F9F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A97FD78-7E81-4E89-AABF-5CAC5E0F9F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A97FD78-7E81-4E89-AABF-5CAC5E0F9F77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

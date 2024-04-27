@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAFA103-93F9-41EC-994A-808CFD759D5B}|02_RazorHtml_tutorial\\02_RazorHtml_tutorial.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\mvc\\02_razorhtml_tutorial\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FAFA103-93F9-41EC-994A-808CFD759D5B}|02_RazorHtml_tutorial\\02_RazorHtml_tutorial.csproj|solutionrelative:02_razorhtml_tutorial\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAFA103-93F9-41EC-994A-808CFD759D5B}|02_RazorHtml_tutorial\\02_RazorHtml_tutorial.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\mvc\\02_razorhtml_tutorial\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FAFA103-93F9-41EC-994A-808CFD759D5B}|02_RazorHtml_tutorial\\02_RazorHtml_tutorial.csproj|solutionrelative:02_razorhtml_tutorial\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79190BF-05BE-434E-A229-D19D17C2C873}|01_Tutorial\\01_Tutorial.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\mvc\\01_tutorial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79190BF-05BE-434E-A229-D19D17C2C873}|01_Tutorial\\01_Tutorial.csproj|solutionrelative:01_tutorial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\MVC\\02_RazorHtml_tutorial\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "02_RazorHtml_tutorial\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\MVC\\02_RazorHtml_tutorial\\Pages\\Index.cshtml",
+              "RelativeToolTip": "02_RazorHtml_tutorial\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T19:02:04.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\MVC\\02_RazorHtml_tutorial\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "02_RazorHtml_tutorial\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\MVC\\02_RazorHtml_tutorial\\Pages\\Error.cshtml",
+              "RelativeToolTip": "02_RazorHtml_tutorial\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T19:02:03.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\MVC\\01_Tutorial\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "01_Tutorial\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\MVC\\01_Tutorial\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "01_Tutorial\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:42:26.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

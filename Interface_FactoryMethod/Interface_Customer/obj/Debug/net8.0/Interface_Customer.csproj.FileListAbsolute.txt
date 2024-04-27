@@ -1,0 +1,15 @@
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\obj\Debug\net8.0\Interface_Customer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\obj\Debug\net8.0\Interface_Customer.AssemblyInfoInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\obj\Debug\net8.0\Interface_Customer.AssemblyInfo.cs
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\obj\Debug\net8.0\Interface_Customer.csproj.CoreCompileInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\obj\Debug\net8.0\Interface_Customer.sourcelink.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\bin\Debug\net8.0\Interface_Customer.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\bin\Debug\net8.0\Interface_Customer.deps.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\bin\Debug\net8.0\Interface_Customer.runtimeconfig.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\bin\Debug\net8.0\Interface_Customer.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\bin\Debug\net8.0\Interface_Customer.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\obj\Debug\net8.0\Interface_Customer.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\obj\Debug\net8.0\refint\Interface_Customer.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\obj\Debug\net8.0\Interface_Customer.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\obj\Debug\net8.0\Interface_Customer.genruntimeconfig.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Interface_FactoryMethod\Interface_Customer\obj\Debug\net8.0\ref\Interface_Customer.dll

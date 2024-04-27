@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\02_RazorHtml_tutorial.props" />
+</Project>

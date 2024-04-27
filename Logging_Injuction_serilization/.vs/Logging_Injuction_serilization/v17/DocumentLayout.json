@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4374AA69-4FAF-44FC-BB06-89E62BB2DED8}|Logging\\Logging.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\logging_injuction_serilization\\logging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4374AA69-4FAF-44FC-BB06-89E62BB2DED8}|Logging\\Logging.csproj|solutionrelative:logging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7BF403-883F-44C9-8DF1-82BB8BBDA552}|Dependency_Injuction\\Dependency_Injuction.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\logging_injuction_serilization\\dependency_injuction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7BF403-883F-44C9-8DF1-82BB8BBDA552}|Dependency_Injuction\\Dependency_Injuction.csproj|solutionrelative:dependency_injuction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\Bank\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,15 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\Logging\\Program.cs",
+              "RelativeDocumentMoniker": "Logging\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\Logging\\Program.cs",
+              "RelativeToolTip": "Logging\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:41:53.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\Dependency_Injuction\\Program.cs",
+              "RelativeDocumentMoniker": "Dependency_Injuction\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\Dependency_Injuction\\Program.cs",
+              "RelativeToolTip": "Dependency_Injuction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:39:04.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\Bank\\Class1.cs",
               "RelativeDocumentMoniker": "Bank\\Class1.cs",
@@ -37,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Logging_Injuction_serilization\\Bank\\Program.cs",
               "RelativeDocumentMoniker": "Bank\\Program.cs",
