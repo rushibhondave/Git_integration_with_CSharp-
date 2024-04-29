@@ -1,0 +1,15 @@
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\bin\Debug\net8.0\Logging.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\bin\Debug\net8.0\Logging.deps.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\bin\Debug\net8.0\Logging.runtimeconfig.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\bin\Debug\net8.0\Logging.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\bin\Debug\net8.0\Logging.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\obj\Debug\net8.0\Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\obj\Debug\net8.0\Logging.AssemblyInfoInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\obj\Debug\net8.0\Logging.AssemblyInfo.cs
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\obj\Debug\net8.0\Logging.csproj.CoreCompileInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\obj\Debug\net8.0\Logging.sourcelink.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\obj\Debug\net8.0\Logging.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\obj\Debug\net8.0\refint\Logging.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\obj\Debug\net8.0\Logging.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\obj\Debug\net8.0\Logging.genruntimeconfig.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Logging_Injuction_serilization\Logging\obj\Debug\net8.0\ref\Logging.dll
