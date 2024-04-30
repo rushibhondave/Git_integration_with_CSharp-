@@ -1,0 +1,15 @@
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\bin\Debug\net8.0\Delgate1.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\bin\Debug\net8.0\Delgate1.deps.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\bin\Debug\net8.0\Delgate1.runtimeconfig.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\bin\Debug\net8.0\Delgate1.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\bin\Debug\net8.0\Delgate1.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\obj\Debug\net8.0\Delgate1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\obj\Debug\net8.0\Delgate1.AssemblyInfoInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\obj\Debug\net8.0\Delgate1.AssemblyInfo.cs
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\obj\Debug\net8.0\Delgate1.csproj.CoreCompileInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\obj\Debug\net8.0\Delgate1.sourcelink.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\obj\Debug\net8.0\Delgate1.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\obj\Debug\net8.0\refint\Delgate1.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\obj\Debug\net8.0\Delgate1.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\obj\Debug\net8.0\Delgate1.genruntimeconfig.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Delgate\obj\Debug\net8.0\ref\Delgate1.dll

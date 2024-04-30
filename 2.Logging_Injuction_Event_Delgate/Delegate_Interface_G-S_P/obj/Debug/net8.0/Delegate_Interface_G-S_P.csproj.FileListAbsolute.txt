@@ -1,0 +1,15 @@
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\bin\Debug\net8.0\Delegate_Interface_G-S_P.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\bin\Debug\net8.0\Delegate_Interface_G-S_P.deps.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\bin\Debug\net8.0\Delegate_Interface_G-S_P.runtimeconfig.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\bin\Debug\net8.0\Delegate_Interface_G-S_P.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\bin\Debug\net8.0\Delegate_Interface_G-S_P.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\obj\Debug\net8.0\Delegate_Interface_G-S_P.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\obj\Debug\net8.0\Delegate_Interface_G-S_P.AssemblyInfoInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\obj\Debug\net8.0\Delegate_Interface_G-S_P.AssemblyInfo.cs
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\obj\Debug\net8.0\Delegate_Interface_G-S_P.csproj.CoreCompileInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\obj\Debug\net8.0\Delegate_Interface_G-S_P.sourcelink.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\obj\Debug\net8.0\Delegate_Interface_G-S_P.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\obj\Debug\net8.0\refint\Delegate_Interface_G-S_P.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\obj\Debug\net8.0\Delegate_Interface_G-S_P.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\obj\Debug\net8.0\Delegate_Interface_G-S_P.genruntimeconfig.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\2.Logging_Injuction_Event_Delgate\Delegate_Interface_G-S_P\obj\Debug\net8.0\ref\Delegate_Interface_G-S_P.dll

@@ -5,3 +5,10 @@ C:\Users\IET\Videos\Lab_Data\C#\Assignment\Serialization_1\obj\Debug\Serializati
 C:\Users\IET\Videos\Lab_Data\C#\Assignment\Serialization_1\obj\Debug\Serialization_1.csproj.CoreCompileInputs.cache
 C:\Users\IET\Videos\Lab_Data\C#\Assignment\Serialization_1\obj\Debug\Serialization_1.exe
 C:\Users\IET\Videos\Lab_Data\C#\Assignment\Serialization_1\obj\Debug\Serialization_1.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\.Assignment\Serialization_1\bin\Debug\Serialization_1.exe.config
+D:\Java_full_stack\Full-Stack\Back_End\C#\.Assignment\Serialization_1\bin\Debug\Serialization_1.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\.Assignment\Serialization_1\bin\Debug\Serialization_1.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\.Assignment\Serialization_1\obj\Debug\Serialization_1.csproj.AssemblyReference.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\.Assignment\Serialization_1\obj\Debug\Serialization_1.csproj.CoreCompileInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\.Assignment\Serialization_1\obj\Debug\Serialization_1.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\.Assignment\Serialization_1\obj\Debug\Serialization_1.pdb

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\File_Logeer\\File_Logeer.csproj",
+      "projectUniqueName": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\File_Logeer\\File_Logeer.csproj",
       "projectName": "File_Logeer",
-      "projectPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\File_Logeer\\File_Logeer.csproj",
+      "projectPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\File_Logeer\\File_Logeer.csproj",
       "packagesPath": "C:\\Users\\Rushikesh Bhondave\\.nuget\\packages\\",
-      "outputPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\File_Logeer\\obj\\",
+      "outputPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\File_Logeer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

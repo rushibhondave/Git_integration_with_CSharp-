@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Delegate_Interface_G-S_P/1.0.0": {
+        "runtime": {
+          "Delegate_Interface_G-S_P.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegate_Interface_G-S_P/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

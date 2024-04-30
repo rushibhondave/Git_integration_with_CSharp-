@@ -1,7 +1,27 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\",
+  "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6F4B2D-50BA-43EE-A2B7-42839DCC6CF8}|Serialization_1\\Serialization_1.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\.assignment\\serialization_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6F4B2D-50BA-43EE-A2B7-42839DCC6CF8}|Serialization_1\\Serialization_1.csproj|solutionrelative:serialization_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2552D101-12AB-4B21-BC7B-15A8B09B1AEE}|hh\\hh.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\.assignment\\hh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2552D101-12AB-4B21-BC7B-15A8B09B1AEE}|hh\\hh.csproj|solutionrelative:hh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F95730-796C-4753-BE73-F2B166E3E7B8}|Gold_Silver_Factory_Interface\\Gold_Silver_Factory_Interface.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\.assignment\\gold_silver_factory_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F95730-796C-4753-BE73-F2B166E3E7B8}|Gold_Silver_Factory_Interface\\Gold_Silver_Factory_Interface.csproj|solutionrelative:gold_silver_factory_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967DFFB3-81C2-4453-BE53-7869709B6F71}|delgate_Private\\delgate_Private.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\.assignment\\delgate_private\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967DFFB3-81C2-4453-BE53-7869709B6F71}|delgate_Private\\delgate_Private.csproj|solutionrelative:delgate_private\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE50227-62A4-469C-BBFF-4BED28F175E1}|Delegate\\Delegate.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\.assignment\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE50227-62A4-469C-BBFF-4BED28F175E1}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IET\\Videos\\Lab_Data\\C#\\Assignment\\Hotel_Menu\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -16,11 +36,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\hh\\Program.cs",
+              "RelativeDocumentMoniker": "hh\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\hh\\Program.cs",
+              "RelativeToolTip": "hh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:14:39.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Serialization_1\\Program.cs",
+              "RelativeDocumentMoniker": "Serialization_1\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Serialization_1\\Program.cs",
+              "RelativeToolTip": "Serialization_1\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:25:18.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Gold_Silver_Factory_Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Gold_Silver_Factory_Interface\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Gold_Silver_Factory_Interface\\Program.cs",
+              "RelativeToolTip": "Gold_Silver_Factory_Interface\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:30:39.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\delgate_Private\\Program.cs",
+              "RelativeDocumentMoniker": "delgate_Private\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\delgate_Private\\Program.cs",
+              "RelativeToolTip": "delgate_Private\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:30:34.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:30:22.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\IET\\Videos\\Lab_Data\\C#\\Assignment\\Hotel_Menu\\Class1.cs",
               "ToolTip": "C:\\Users\\IET\\Videos\\Lab_Data\\C#\\Assignment\\Hotel_Menu\\Class1.cs",
@@ -29,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\IET\\Videos\\Lab_Data\\C#\\Assignment\\Hotel_Mangement_Library\\Program.cs",
               "ToolTip": "C:\\Users\\IET\\Videos\\Lab_Data\\C#\\Assignment\\Hotel_Mangement_Library\\Program.cs",

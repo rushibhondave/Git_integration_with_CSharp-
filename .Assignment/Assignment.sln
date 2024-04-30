@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delgate_Private", "delgate_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bank1", "bank1\bank1.csproj", "{D7173514-C06D-4EAA-A280-CBA79386C4D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hh", "hh\hh.csproj", "{2552D101-12AB-4B21-BC7B-15A8B09B1AEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{D7173514-C06D-4EAA-A280-CBA79386C4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7173514-C06D-4EAA-A280-CBA79386C4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7173514-C06D-4EAA-A280-CBA79386C4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2552D101-12AB-4B21-BC7B-15A8B09B1AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2552D101-12AB-4B21-BC7B-15A8B09B1AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2552D101-12AB-4B21-BC7B-15A8B09B1AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2552D101-12AB-4B21-BC7B-15A8B09B1AEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

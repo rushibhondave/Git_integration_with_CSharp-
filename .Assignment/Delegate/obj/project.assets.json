@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\Delegate\\Delegate.csproj",
+      "projectUniqueName": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Delegate\\Delegate.csproj",
       "projectName": "Delegate",
-      "projectPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\Delegate\\Delegate.csproj",
+      "projectPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Delegate\\Delegate.csproj",
       "packagesPath": "C:\\Users\\Rushikesh Bhondave\\.nuget\\packages\\",
-      "outputPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\Delegate\\obj\\",
+      "outputPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Delegate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

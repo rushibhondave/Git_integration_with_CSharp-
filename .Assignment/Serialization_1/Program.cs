@@ -28,7 +28,8 @@ namespace SerializationDemo
             string path, k;
             Stream str;
             int n = 1;
-            string path1=@"D:\";
+
+            string path1= @"D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\sample.txt";
 
             XmlSerializer x = new XmlSerializer(e1.GetType());
             while (n != 0)
@@ -74,10 +75,7 @@ namespace SerializationDemo
             // Console.ReadLine();
         }
         #endregion
-        #region XMLserialization
-        #endregion
-        // ////Console.WriteLine("Marks: {0}", s2.marks);
-
+    
     }
 }
 

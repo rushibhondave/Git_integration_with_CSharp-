@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\delgate_Private\\delgate_Private.csproj": {}
+    "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\delgate_Private\\delgate_Private.csproj": {}
   },
   "projects": {
-    "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\delgate_Private\\delgate_Private.csproj": {
+    "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\delgate_Private\\delgate_Private.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\delgate_Private\\delgate_Private.csproj",
+        "projectUniqueName": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\delgate_Private\\delgate_Private.csproj",
         "projectName": "delgate_Private",
-        "projectPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\delgate_Private\\delgate_Private.csproj",
+        "projectPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\delgate_Private\\delgate_Private.csproj",
         "packagesPath": "C:\\Users\\Rushikesh Bhondave\\.nuget\\packages\\",
-        "outputPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Assignment\\delgate_Private\\obj\\",
+        "outputPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\delgate_Private\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

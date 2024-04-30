@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\2.Logging_Injuction_Event_Delgate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5D400C-208B-4717-BF29-91DAE099CDAE}|Delegate_Interface_G-S_P\\Delegate_Interface_G-S_P.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\2.logging_injuction_event_delgate\\delegate_interface_g-s_p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5D400C-208B-4717-BF29-91DAE099CDAE}|Delegate_Interface_G-S_P\\Delegate_Interface_G-S_P.csproj|solutionrelative:delegate_interface_g-s_p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7BF403-883F-44C9-8DF1-82BB8BBDA552}|Dependency_Injuction\\Dependency_Injuction.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\2.logging_injuction_event_delgate\\dependency_injuction\\dependency_injuction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE7BF403-883F-44C9-8DF1-82BB8BBDA552}|Dependency_Injuction\\Dependency_Injuction.csproj|solutionrelative:dependency_injuction\\dependency_injuction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\2.Logging_Injuction_Event_Delgate\\C1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6A1D50-B453-4F1B-8FFC-663E474FBC18}|EvenT_Delegate\\EvenT_Delegate.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\2.logging_injuction_event_delgate\\event_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6A1D50-B453-4F1B-8FFC-663E474FBC18}|EvenT_Delegate\\EvenT_Delegate.csproj|solutionrelative:event_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\2.Logging_Injuction_Event_Delgate\\Delegate_Interface_G-S_P\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate_Interface_G-S_P\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\2.Logging_Injuction_Event_Delgate\\Delegate_Interface_G-S_P\\Program.cs",
+              "RelativeToolTip": "Delegate_Interface_G-S_P\\Program.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAowJ0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:29:02.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dependency_Injuction.csproj",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\2.Logging_Injuction_Event_Delgate\\Dependency_Injuction\\Dependency_Injuction.csproj",
+              "RelativeDocumentMoniker": "Dependency_Injuction\\Dependency_Injuction.csproj",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\2.Logging_Injuction_Event_Delgate\\Dependency_Injuction\\Dependency_Injuction.csproj",
+              "RelativeToolTip": "Dependency_Injuction\\Dependency_Injuction.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T17:37:48.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\2.Logging_Injuction_Event_Delgate\\C1\\Program.cs",
+              "RelativeDocumentMoniker": "C1\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\2.Logging_Injuction_Event_Delgate\\C1\\Program.cs",
+              "RelativeToolTip": "C1\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:33:22.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\2.Logging_Injuction_Event_Delgate\\EvenT_Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "EvenT_Delegate\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\2.Logging_Injuction_Event_Delgate\\EvenT_Delegate\\Program.cs",
+              "RelativeToolTip": "EvenT_Delegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:11:47.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
