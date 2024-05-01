@@ -6,7 +6,7 @@ namespace _Interface_Silver_Gold
     public interface ISilver
     {
         protected void water();
-        public virtual void Getdata()
+        public  void Getdata()
         {
             water();
         }

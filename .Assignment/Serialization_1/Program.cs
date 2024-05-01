@@ -31,7 +31,7 @@ namespace SerializationDemo
 
             string path1= @"D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\sample.txt";
 
-            XmlSerializer x = new XmlSerializer(e1.GetType());
+          //  XmlSerializer x = new XmlSerializer(e1.GetType());
             while (n != 0)
             {
                 Console.WriteLine("\n1.create binary txt 2.create xml 3.read binary txt ");

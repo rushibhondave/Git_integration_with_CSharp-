@@ -1,0 +1,15 @@
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\bin\Debug\net8.0\Serilization.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\bin\Debug\net8.0\Serilization.deps.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\bin\Debug\net8.0\Serilization.runtimeconfig.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\bin\Debug\net8.0\Serilization.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\bin\Debug\net8.0\Serilization.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\obj\Debug\net8.0\Serilization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\obj\Debug\net8.0\Serilization.AssemblyInfoInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\obj\Debug\net8.0\Serilization.AssemblyInfo.cs
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\obj\Debug\net8.0\Serilization.csproj.CoreCompileInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\obj\Debug\net8.0\Serilization.sourcelink.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\obj\Debug\net8.0\Serilization.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\obj\Debug\net8.0\refint\Serilization.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\obj\Debug\net8.0\Serilization.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\obj\Debug\net8.0\Serilization.genruntimeconfig.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Serilization\obj\Debug\net8.0\ref\Serilization.dll

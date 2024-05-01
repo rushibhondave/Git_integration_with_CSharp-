@@ -42,23 +42,23 @@ namespace Dependency_Injuction
     }
     public class Account
     {
-        private IAccount? account;
+        private IAccount account;
 
         factory factory = new factory();
-        public Account(IAccount? Account)
+        public Account(IAccount? Acc)
         {
-           
 
-            if (account==null)
-            {
-                account = factory.GetFactory(1);
-            }
-            else
-            {
-                this.account = Account;
-            }
+            account = Acc;
+            //if (account==null)
+            //{
+            //    account = factory.GetFactory(1);
+            //}
+            //else
+            //{
 
-            
+            //}
+
+
         }
 
         public void PrintDetails() 
@@ -69,7 +69,7 @@ namespace Dependency_Injuction
 
     public class factory
     {
-        public IAccount? GetFactory(int choice) 
+        public IAccount GetFactory(int choice) 
         {
                 if(choice==1)
                 {
@@ -104,15 +104,15 @@ namespace Dependency_Injuction
            string N;
            do
            {
-                #region Dependency Injuction
-                // Console.WriteLine("\nChoose the Account type");
-                //Console.Write("\n1.Saving 2.Current 3.Joint 4.Jandhan :: ");
-                //int choice = Convert.ToInt32(Console.ReadLine());
-                //factory factory = new factory();
-                //IAccount? account = factory.GetFactory(choice);
-                //Account? account1= new Account(account);
-                // account1.PrintDetails(); 
-                #endregion
+              
+                Console.WriteLine("\nChoose the Account type");
+                Console.Write("\n1.Saving 2.Current 3.Joint 4.Jandhan :: ");
+                int choice = Convert.ToInt32(Console.ReadLine());
+                factory factory = new factory();
+                IAccount account = factory.GetFactory(choice);
+                Account account1 = new Account(account);
+                account1.PrintDetails();
+              
 
 
                 #region Properties Injuction
@@ -121,13 +121,13 @@ namespace Dependency_Injuction
                 #endregion
 
                 #region Method Injuction
-                Method method = new Method();
-                method.Main(); 
+             //   Method method = new Method();
+               // method.Main(); 
                 #endregion
 
 
-                Console.Write("\n Do you want to continue  1.Yes-y 2.No-n::");
-                N = Console.ReadLine();
+            Console.Write("\n Do you want to continue  1.Yes-y 2.No-n::");
+              N = Console.ReadLine();
 
             } while (N != "n");
 

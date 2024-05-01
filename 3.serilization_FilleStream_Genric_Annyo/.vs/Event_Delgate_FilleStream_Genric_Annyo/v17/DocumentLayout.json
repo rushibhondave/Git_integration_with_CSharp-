@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\3.serilization_FilleStream_Genric_Annyo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{537FF3D9-90A8-495D-A0C7-082397585B9C}|Serilization\\Serilization.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\3.serilization_fillestream_genric_annyo\\serilization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{537FF3D9-90A8-495D-A0C7-082397585B9C}|Serilization\\Serilization.csproj|solutionrelative:serilization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C31E76C-4BDD-44B0-885C-613453EF72FC}|Genric\\Genric.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\3.serilization_fillestream_genric_annyo\\genric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C31E76C-4BDD-44B0-885C-613453EF72FC}|Genric\\Genric.csproj|solutionrelative:genric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C5384-0D51-434D-9B3F-B2B1DE4702FC}|Delgate\\Delgate1.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\3.serilization_fillestream_genric_annyo\\delgate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938C5384-0D51-434D-9B3F-B2B1DE4702FC}|Delgate\\Delgate1.csproj|solutionrelative:delgate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{537FF3D9-90A8-495D-A0C7-082397585B9C}|Serilization\\Serilization.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\3.serilization_fillestream_genric_annyo\\serilization\\serilization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{537FF3D9-90A8-495D-A0C7-082397585B9C}|Serilization\\Serilization.csproj|solutionrelative:serilization\\serilization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{938C5384-0D51-434D-9B3F-B2B1DE4702FC}|Delgate\\Delgate1.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\3.serilization_fillestream_genric_annyo\\delgate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{938C5384-0D51-434D-9B3F-B2B1DE4702FC}|Delgate\\Delgate1.csproj|solutionrelative:delgate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{537FF3D9-90A8-495D-A0C7-082397585B9C}|Serilization\\Serilization.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\3.serilization_fillestream_genric_annyo\\serilization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537FF3D9-90A8-495D-A0C7-082397585B9C}|Serilization\\Serilization.csproj|solutionrelative:serilization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +26,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Serilization",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\3.serilization_FilleStream_Genric_Annyo\\Genric\\Program.cs",
+              "RelativeDocumentMoniker": "Genric\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\3.serilization_FilleStream_Genric_Annyo\\Genric\\Program.cs",
+              "RelativeToolTip": "Genric\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:00:21.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Serilization.csproj",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\3.serilization_FilleStream_Genric_Annyo\\Serilization\\Serilization.csproj",
               "RelativeDocumentMoniker": "Serilization\\Serilization.csproj",
               "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\3.serilization_FilleStream_Genric_Annyo\\Serilization\\Serilization.csproj",
               "RelativeToolTip": "Serilization\\Serilization.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-29T19:43:01.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T19:43:01.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\3.serilization_FilleStream_Genric_Annyo\\Serilization\\Program.cs",
               "RelativeDocumentMoniker": "Serilization\\Program.cs",
               "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\3.serilization_FilleStream_Genric_Annyo\\Serilization\\Program.cs",
               "RelativeToolTip": "Serilization\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAAANAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T19:17:12.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T19:17:12.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\3.serilization_FilleStream_Genric_Annyo\\Delgate\\Program.cs",
               "RelativeDocumentMoniker": "Delgate\\Program.cs",
@@ -60,8 +75,7 @@
               "RelativeToolTip": "Delgate\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T18:09:59.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T18:09:59.964Z"
             }
           ]
         }

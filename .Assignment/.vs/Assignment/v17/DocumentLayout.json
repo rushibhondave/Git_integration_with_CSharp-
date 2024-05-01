@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B6F4B2D-50BA-43EE-A2B7-42839DCC6CF8}|Serialization_1\\Serialization_1.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\.assignment\\serialization_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B6F4B2D-50BA-43EE-A2B7-42839DCC6CF8}|Serialization_1\\Serialization_1.csproj|D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\serialization_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B6F4B2D-50BA-43EE-A2B7-42839DCC6CF8}|Serialization_1\\Serialization_1.csproj|solutionrelative:serialization_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2552D101-12AB-4B21-BC7B-15A8B09B1AEE}|hh\\hh.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\.assignment\\hh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2552D101-12AB-4B21-BC7B-15A8B09B1AEE}|hh\\hh.csproj|solutionrelative:hh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72F95730-796C-4753-BE73-F2B166E3E7B8}|Gold_Silver_Factory_Interface\\Gold_Silver_Factory_Interface.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\.assignment\\gold_silver_factory_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72F95730-796C-4753-BE73-F2B166E3E7B8}|Gold_Silver_Factory_Interface\\Gold_Silver_Factory_Interface.csproj|solutionrelative:gold_silver_factory_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2552D101-12AB-4B21-BC7B-15A8B09B1AEE}|hh\\hh.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\.assignment\\hh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2552D101-12AB-4B21-BC7B-15A8B09B1AEE}|hh\\hh.csproj|solutionrelative:hh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{967DFFB3-81C2-4453-BE53-7869709B6F71}|delgate_Private\\delgate_Private.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\.assignment\\delgate_private\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,7 +40,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\hh\\Program.cs",
               "RelativeDocumentMoniker": "hh\\Program.cs",
@@ -48,8 +48,7 @@
               "RelativeToolTip": "hh\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAB7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:14:39.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T05:14:39.909Z"
             },
             {
               "$type": "Document",
@@ -59,20 +58,20 @@
               "RelativeDocumentMoniker": "Serialization_1\\Program.cs",
               "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Serialization_1\\Program.cs",
               "RelativeToolTip": "Serialization_1\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAzwB0AAAAWAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T20:25:18.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Gold_Silver_Factory_Interface\\Program.cs",
               "RelativeDocumentMoniker": "Gold_Silver_Factory_Interface\\Program.cs",
               "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\.Assignment\\Gold_Silver_Factory_Interface\\Program.cs",
               "RelativeToolTip": "Gold_Silver_Factory_Interface\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAQwKAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T19:30:39.584Z",
               "EditorCaption": ""

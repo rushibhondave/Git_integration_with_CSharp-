@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Inte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{0F961FFF-63EC-494A-8A9E-162DCC8D44B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract_Factory", "Abstract_Factory\Abstract_Factory.csproj", "{A7EA673D-3F63-4B88-B5E6-74B778579353}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract_Factory", "Abstract_Factory\Abstract_Factory.csproj", "{A7EA673D-3F63-4B88-B5E6-74B778579353}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Customer", "Interface_Customer\Interface_Customer.csproj", "{AE8812D3-CEB1-4E8A-9DF2-6F2D91D499FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_Customer", "Interface_Customer\Interface_Customer.csproj", "{AE8812D3-CEB1-4E8A-9DF2-6F2D91D499FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI", "DI\DI.csproj", "{5C7A9A3D-C81E-468D-88D4-5F60E1848E2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{AE8812D3-CEB1-4E8A-9DF2-6F2D91D499FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE8812D3-CEB1-4E8A-9DF2-6F2D91D499FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE8812D3-CEB1-4E8A-9DF2-6F2D91D499FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7A9A3D-C81E-468D-88D4-5F60E1848E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7A9A3D-C81E-468D-88D4-5F60E1848E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7A9A3D-C81E-468D-88D4-5F60E1848E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7A9A3D-C81E-468D-88D4-5F60E1848E2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

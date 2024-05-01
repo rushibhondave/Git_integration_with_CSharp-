@@ -1,0 +1,15 @@
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\bin\Debug\net8.0\Genric.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\bin\Debug\net8.0\Genric.deps.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\bin\Debug\net8.0\Genric.runtimeconfig.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\bin\Debug\net8.0\Genric.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\bin\Debug\net8.0\Genric.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\obj\Debug\net8.0\Genric.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\obj\Debug\net8.0\Genric.AssemblyInfoInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\obj\Debug\net8.0\Genric.AssemblyInfo.cs
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\obj\Debug\net8.0\Genric.csproj.CoreCompileInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\obj\Debug\net8.0\Genric.sourcelink.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\obj\Debug\net8.0\Genric.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\obj\Debug\net8.0\refint\Genric.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\obj\Debug\net8.0\Genric.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\obj\Debug\net8.0\Genric.genruntimeconfig.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\3.serilization_FilleStream_Genric_Annyo\Genric\obj\Debug\net8.0\ref\Genric.dll

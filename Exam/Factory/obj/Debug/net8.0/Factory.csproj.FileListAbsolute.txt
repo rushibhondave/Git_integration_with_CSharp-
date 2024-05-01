@@ -1,0 +1,15 @@
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\obj\Debug\net8.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\obj\Debug\net8.0\Factory.AssemblyInfoInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\obj\Debug\net8.0\Factory.AssemblyInfo.cs
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\obj\Debug\net8.0\Factory.csproj.CoreCompileInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\obj\Debug\net8.0\Factory.sourcelink.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\bin\Debug\net8.0\Factory.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\bin\Debug\net8.0\Factory.deps.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\bin\Debug\net8.0\Factory.runtimeconfig.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\bin\Debug\net8.0\Factory.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\bin\Debug\net8.0\Factory.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\obj\Debug\net8.0\Factory.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\obj\Debug\net8.0\refint\Factory.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\obj\Debug\net8.0\Factory.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\obj\Debug\net8.0\Factory.genruntimeconfig.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Factory\obj\Debug\net8.0\ref\Factory.dll

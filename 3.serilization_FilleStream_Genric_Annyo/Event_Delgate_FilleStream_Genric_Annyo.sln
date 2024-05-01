@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delgate1", "Delgate\Delgate1.csproj", "{938C5384-0D51-434D-9B3F-B2B1DE4702FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilization", "Serilization\Serilization.csproj", "{537FF3D9-90A8-495D-A0C7-082397585B9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serilization", "Serilization\Serilization.csproj", "{537FF3D9-90A8-495D-A0C7-082397585B9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genric", "Genric\Genric.csproj", "{1C31E76C-4BDD-44B0-885C-613453EF72FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{537FF3D9-90A8-495D-A0C7-082397585B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{537FF3D9-90A8-495D-A0C7-082397585B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{537FF3D9-90A8-495D-A0C7-082397585B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C31E76C-4BDD-44B0-885C-613453EF72FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C31E76C-4BDD-44B0-885C-613453EF72FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C31E76C-4BDD-44B0-885C-613453EF72FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C31E76C-4BDD-44B0-885C-613453EF72FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

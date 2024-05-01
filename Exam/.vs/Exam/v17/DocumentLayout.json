@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC78CE88-B9F1-489D-967C-4FE4BB4066E5}|Seri\\Seri.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\exam\\seri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC78CE88-B9F1-489D-967C-4FE4BB4066E5}|Seri\\Seri.csproj|solutionrelative:seri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3904A1DD-FB3F-4CBB-99C0-807198A2F5B8}|Collection_Genric\\Collection_Genric.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\exam\\collection_genric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3904A1DD-FB3F-4CBB-99C0-807198A2F5B8}|Collection_Genric\\Collection_Genric.csproj|solutionrelative:collection_genric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DB35A7-4AC9-4BE2-972B-3D33A2EF81AA}|Delgate\\Delgate.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\exam\\delgate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DB35A7-4AC9-4BE2-972B-3D33A2EF81AA}|Delgate\\Delgate.csproj|solutionrelative:delgate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3610A9B4-5370-4DB7-A141-108F8603EEB2}|Dependency_Injuction\\Dependency_Injuction.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\exam\\dependency_injuction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3610A9B4-5370-4DB7-A141-108F8603EEB2}|Dependency_Injuction\\Dependency_Injuction.csproj|solutionrelative:dependency_injuction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560F4F30-66D6-4699-8BFC-95FD99A61C79}|Singleton_Design_Pattern\\Singleton_Design_Pattern.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\exam\\singleton_design_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560F4F30-66D6-4699-8BFC-95FD99A61C79}|Singleton_Design_Pattern\\Singleton_Design_Pattern.csproj|solutionrelative:singleton_design_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBBC134-0F3E-47BD-B9F5-F351B1DC671B}|Factory\\Factory.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\exam\\factory\\interface_fact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBBC134-0F3E-47BD-B9F5-F351B1DC671B}|Factory\\Factory.csproj|solutionrelative:factory\\interface_fact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBBC134-0F3E-47BD-B9F5-F351B1DC671B}|Factory\\Factory.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\exam\\factory\\abstreact_fact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBBC134-0F3E-47BD-B9F5-F351B1DC671B}|Factory\\Factory.csproj|solutionrelative:factory\\abstreact_fact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Seri\\Program.cs",
+              "RelativeDocumentMoniker": "Seri\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Seri\\Program.cs",
+              "RelativeToolTip": "Seri\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:52:08.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Collection_Genric\\Program.cs",
+              "RelativeDocumentMoniker": "Collection_Genric\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Collection_Genric\\Program.cs",
+              "RelativeToolTip": "Collection_Genric\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:15:46.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Delgate\\Program.cs",
+              "RelativeDocumentMoniker": "Delgate\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Delgate\\Program.cs",
+              "RelativeToolTip": "Delgate\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:46:59.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Abstreact_Fact.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Factory\\Abstreact_Fact.cs",
+              "RelativeDocumentMoniker": "Factory\\Abstreact_Fact.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Factory\\Abstreact_Fact.cs",
+              "RelativeToolTip": "Factory\\Abstreact_Fact.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:01:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interface_Fact.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Factory\\Interface_Fact.cs",
+              "RelativeDocumentMoniker": "Factory\\Interface_Fact.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Factory\\Interface_Fact.cs",
+              "RelativeToolTip": "Factory\\Interface_Fact.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAQwMsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:19:47.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Singleton_Design_Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton_Design_Pattern\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Singleton_Design_Pattern\\Program.cs",
+              "RelativeToolTip": "Singleton_Design_Pattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:48:25.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Dependency_Injuction\\Program.cs",
+              "RelativeDocumentMoniker": "Dependency_Injuction\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\Exam\\Dependency_Injuction\\Program.cs",
+              "RelativeToolTip": "Dependency_Injuction\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:36:09.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

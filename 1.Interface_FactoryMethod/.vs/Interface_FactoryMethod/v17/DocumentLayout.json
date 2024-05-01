@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7EA673D-3F63-4B88-B5E6-74B778579353}|Abstract_Factory\\Abstract_Factory.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\1.interface_factorymethod\\abstract_factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EA673D-3F63-4B88-B5E6-74B778579353}|Abstract_Factory\\Abstract_Factory.csproj|solutionrelative:abstract_factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE8812D3-CEB1-4E8A-9DF2-6F2D91D499FB}|Interface_Customer\\Interface_Customer.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\1.interface_factorymethod\\interface_customer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE8812D3-CEB1-4E8A-9DF2-6F2D91D499FB}|Interface_Customer\\Interface_Customer.csproj|solutionrelative:interface_customer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7EA673D-3F63-4B88-B5E6-74B778579353}|Abstract_Factory\\Abstract_Factory.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\1.interface_factorymethod\\abstract_factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7EA673D-3F63-4B88-B5E6-74B778579353}|Abstract_Factory\\Abstract_Factory.csproj|solutionrelative:abstract_factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE8812D3-CEB1-4E8A-9DF2-6F2D91D499FB}|Interface_Customer\\Interface_Customer.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\1.interface_factorymethod\\interface_customer\\factory_madebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8812D3-CEB1-4E8A-9DF2-6F2D91D499FB}|Interface_Customer\\Interface_Customer.csproj|solutionrelative:interface_customer\\factory_madebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F961FFF-63EC-494A-8A9E-162DCC8D44B6}|FactoryMethod\\FactoryMethod.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\1.interface_factorymethod\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F961FFF-63EC-494A-8A9E-162DCC8D44B6}|FactoryMethod\\FactoryMethod.csproj|solutionrelative:factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8812D3-CEB1-4E8A-9DF2-6F2D91D499FB}|Interface_Customer\\Interface_Customer.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\1.interface_factorymethod\\interface_customer\\interface_customer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE8812D3-CEB1-4E8A-9DF2-6F2D91D499FB}|Interface_Customer\\Interface_Customer.csproj|solutionrelative:interface_customer\\interface_customer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7A9A3D-C81E-468D-88D4-5F60E1848E2E}|DI\\DI.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\1.interface_factorymethod\\di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7A9A3D-C81E-468D-88D4-5F60E1848E2E}|DI\\DI.csproj|solutionrelative:di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84E991B2-8359-4903-A5F8-B635C1D94942}|Interface\\Interface.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\1.interface_factorymethod\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E991B2-8359-4903-A5F8-B635C1D94942}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EA673D-3F63-4B88-B5E6-74B778579353}|Abstract_Factory\\Abstract_Factory.csproj|d:\\java_full_stack\\full-stack\\back_end\\c#\\1.interface_factorymethod\\abstract_factory\\abstract_factory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7EA673D-3F63-4B88-B5E6-74B778579353}|Abstract_Factory\\Abstract_Factory.csproj|solutionrelative:abstract_factory\\abstract_factory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Abstract_Factory\\Program.cs",
-              "RelativeDocumentMoniker": "Abstract_Factory\\Program.cs",
-              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Abstract_Factory\\Program.cs",
-              "RelativeToolTip": "Abstract_Factory\\Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAADYAAAATAAAA",
+              "DocumentIndex": 2,
+              "Title": "factory_madeBase.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Interface_Customer\\factory_madeBase.cs",
+              "RelativeDocumentMoniker": "Interface_Customer\\factory_madeBase.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Interface_Customer\\factory_madeBase.cs",
+              "RelativeToolTip": "Interface_Customer\\factory_madeBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T17:14:23.323Z"
+              "WhenOpened": "2024-05-01T15:35:19.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMethod\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeToolTip": "FactoryMethod\\Program.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:30:49.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\DI\\Program.cs",
+              "RelativeDocumentMoniker": "DI\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\DI\\Program.cs",
+              "RelativeToolTip": "DI\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:24:33.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:30:10.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Abstract_Factory.csproj",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Abstract_Factory\\Abstract_Factory.csproj",
+              "RelativeDocumentMoniker": "Abstract_Factory\\Abstract_Factory.csproj",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Abstract_Factory\\Abstract_Factory.csproj",
+              "RelativeToolTip": "Abstract_Factory\\Abstract_Factory.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T06:13:08.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interface_Customer.csproj",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Interface_Customer\\Interface_Customer.csproj",
+              "RelativeDocumentMoniker": "Interface_Customer\\Interface_Customer.csproj",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Interface_Customer\\Interface_Customer.csproj",
+              "RelativeToolTip": "Interface_Customer\\Interface_Customer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T06:13:03.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Interface_Customer\\Program.cs",
               "RelativeDocumentMoniker": "Interface_Customer\\Program.cs",
               "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Interface_Customer\\Program.cs",
               "RelativeToolTip": "Interface_Customer\\Program.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAAwFEAAAAcAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:17:58.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Abstract_Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract_Factory\\Program.cs",
+              "ToolTip": "D:\\Java_full_stack\\Full-Stack\\Back_End\\C#\\1.Interface_FactoryMethod\\Abstract_Factory\\Program.cs",
+              "RelativeToolTip": "Abstract_Factory\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAuwFoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:14:23.323Z",
               "EditorCaption": ""
             }
           ]

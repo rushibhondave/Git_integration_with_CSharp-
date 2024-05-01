@@ -1,0 +1,15 @@
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\bin\Debug\net8.0\DI.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\bin\Debug\net8.0\DI.deps.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\bin\Debug\net8.0\DI.runtimeconfig.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\bin\Debug\net8.0\DI.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\bin\Debug\net8.0\DI.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\obj\Debug\net8.0\DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\obj\Debug\net8.0\DI.AssemblyInfoInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\obj\Debug\net8.0\DI.AssemblyInfo.cs
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\obj\Debug\net8.0\DI.csproj.CoreCompileInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\obj\Debug\net8.0\DI.sourcelink.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\obj\Debug\net8.0\DI.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\obj\Debug\net8.0\refint\DI.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\obj\Debug\net8.0\DI.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\obj\Debug\net8.0\DI.genruntimeconfig.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\1.Interface_FactoryMethod\DI\obj\Debug\net8.0\ref\DI.dll

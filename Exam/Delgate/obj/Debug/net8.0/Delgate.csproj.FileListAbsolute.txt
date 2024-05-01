@@ -1,0 +1,15 @@
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\obj\Debug\net8.0\Delgate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\obj\Debug\net8.0\Delgate.AssemblyInfoInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\obj\Debug\net8.0\Delgate.AssemblyInfo.cs
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\obj\Debug\net8.0\Delgate.csproj.CoreCompileInputs.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\obj\Debug\net8.0\Delgate.sourcelink.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\bin\Debug\net8.0\Delgate.exe
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\bin\Debug\net8.0\Delgate.deps.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\bin\Debug\net8.0\Delgate.runtimeconfig.json
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\bin\Debug\net8.0\Delgate.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\bin\Debug\net8.0\Delgate.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\obj\Debug\net8.0\Delgate.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\obj\Debug\net8.0\refint\Delgate.dll
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\obj\Debug\net8.0\Delgate.pdb
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\obj\Debug\net8.0\Delgate.genruntimeconfig.cache
+D:\Java_full_stack\Full-Stack\Back_End\C#\Exam\Delgate\obj\Debug\net8.0\ref\Delgate.dll
